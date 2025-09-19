@@ -38,7 +38,7 @@ Strike Accuracy: 56.81%
 
 ## Final Report
 
-The final 2-page IEEE-style paper summarizing this project can be found [here](./final_report.pdf).
+The final 2-page IEEE-style paper summarizing this project can be found [here](https://github.com/EvanDelcamp/STATS-507-pitch-sequencing-project/blob/main/Preparing_for_the_Pitch__Using_Deep_Learning_to_Anticipate_MLB_s_Toughest_Pitchers.pdf).
 
 # Contact:
 For questions or collaboration ideas, feel free to reach out at [evandelcamp@gmail.com].
